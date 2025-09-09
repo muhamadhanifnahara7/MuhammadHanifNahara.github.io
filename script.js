@@ -59,7 +59,7 @@
                 try {
                     // ============================ IMPORTANT ============================
                     // PASTE THE API KEY YOU GENERATED FROM GOOGLE AI STUDIO HERE
-                    const apiKey = "AIzaSyA5tXDbwb8ILhivY2eurBJYDI21R1Vvt3c";
+                    const apiKey = "AIzaSyD-iaMWP2mT7ySJtJBB0zvXWG0GUQKyync";
                     // =================================================================
 
                     const currentAboutMe = aboutMeTextElement.innerText;

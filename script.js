@@ -1,7 +1,7 @@
 // Wait for the DOM to be fully loaded before running any scripts
 import { animate, stagger, splitText } from 'animejs';
 
-const { chars } = splitText('h1', { words: false, chars: true });
+const { chars } = splitText('h2', { words: false, chars: true });
 
 animate(chars, {
   // Property keyframes
